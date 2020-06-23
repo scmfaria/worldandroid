@@ -1,4 +1,4 @@
-# Mundo Android
+# World Android
 
 Este projeto é um simples aplicativo para brincar com o Android.
 
